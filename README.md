@@ -17,9 +17,13 @@ Special Characters
 
 Quantifiers
 -----------
+
+| Regex        | Meaning                          |
+|--------------|----------------------------------|
 | `?`          | Zero or one of the preceeding character or set. |
 | `+`          | One or more of the preceeding character or set. |
 | `*`          | Zero or more of the preceeding character or set. |
-| `{4}`          | Four of the preceeding character or set. |
-| `{2,6}`          | between two and six (inclusive) of the preceeding character or set. |
-| `{,5}`          | One or more of the preceeding character or set. |
+| `{4}`        | Four of the preceeding character or set. |
+| `{2,6}`      | between two and six (inclusive) of the preceeding character or set. |
+| `{,5}`       | One or more of the preceeding character or set. |
+
